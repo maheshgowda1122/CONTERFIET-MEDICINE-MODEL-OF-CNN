@@ -172,7 +172,7 @@ All figures are saved automatically as high-resolution PNG files (300 DPI) durin
 |---|---|
 | Course | Machine Learning |
 | Phase | Phase 2 — Proposal and Code Implementation |
-| Student | Abhishek Karthika Kumarun |
+| Student | MAHESH GOWDA SONNEGOWDA|
 | University | University of Europe for Applied Sciences (UE Potsdam) |
 | Programme | MSc Data Science |
 
